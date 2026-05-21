@@ -1,7 +1,7 @@
-pandas
-streamlit
-pyteomics
-numpy
-os
-gc
-io
+pandas==2.3.3
+streamlit==1.50.0
+pyteomics==4.7.5
+numpy==2.0.2
+os==3.9.6
+gc==3.9.6
+io==3.9.6
