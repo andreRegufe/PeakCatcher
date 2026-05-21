@@ -1,0 +1,7 @@
+pandas
+streamlit
+pyteomics
+numpy
+os
+gc
+io
