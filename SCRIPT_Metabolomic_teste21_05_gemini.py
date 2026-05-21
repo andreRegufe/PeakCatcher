@@ -27,12 +27,14 @@ folder_mzml = st.text_input(
 
 path_adducts = st.text_input(
     "3. Caminho para a Tabela de Adutos", 
-    value="/Volumes/HDD_andre/CIIMAR/Metabolomica/Tabela_Adutos_Limpa.xlsx"
+    #value="/Volumes/HDD_andre/CIIMAR/Metabolomica/Tabela_Adutos_Limpa.xlsx"
+    value="Tabela_Adutos_Limpa.xlsx"
 )
 
 path_isotopes = st.text_input(
     "4. Caminho para a Tabela de Isótopos", 
-    value="/Volumes/HDD_andre/CIIMAR/Metabolomica/Tabela_Isotopos_Limpa.xlsx"
+    #value="/Volumes/HDD_andre/CIIMAR/Metabolomica/Tabela_Isotopos_Limpa.xlsx"
+    value="Tabela_Isotopos_Limpa.xlsx"
 )
 
 # ==========================================
