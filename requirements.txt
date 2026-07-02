@@ -1,6 +1,7 @@
 pandas==2.3.3
 streamlit==1.50.0
-pyteomics==4.7.5
+pyteomics[XML,numpress]==4.7.5
 numpy==2.0.2
 lxml==6.0.2
 xlsxwriter==3.2.9
+openpyxl==3.1.5
